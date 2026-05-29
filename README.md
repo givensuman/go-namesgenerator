@@ -1,6 +1,6 @@
 ![go-namesgenerator logo](./assets/logo.png)
 
-*What's in a name? That which we call a rose by any other name would smell as sweet*
+*What's in a name? That which we call a rose by any other name would smell as sweet.*
 
 # go-namesgenerator
 
@@ -28,3 +28,7 @@ import (
 // integer between 0 and 10 will be added to the end of the name, e.g `focused_squirrel3`
 func GetRandomName(retry int) string
 ```
+
+## License
+
+[MIT](./LICENSE)
